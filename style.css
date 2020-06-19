@@ -16,6 +16,10 @@ footer {
   font-family: "Courier New", Courier, monospace;
 }
 
+footer a {
+  color: #10f041;
+}
+
 .set {
   margin: 10% auto;
 }
